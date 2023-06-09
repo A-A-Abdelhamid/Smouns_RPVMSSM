@@ -8,6 +8,7 @@ Cross section makes sense (0.01471 +- 4.024e-05 pb) after I fixed the helicity (
 Downloaded the entire "/RPVSSM_UFO" directory from https://github.com/lawrenceleejr/DVMuReint/tree/86e167ff72ac462aac583ac5751d72f889a18a63/RPVMSSM_UFO
 
 <code>mg5> import model RPVMSSM_UFO/RPVMSSM_UFO</code> 
+
 <code>mg5> display coupling_order</code>
 
     QCD : weight = 1
