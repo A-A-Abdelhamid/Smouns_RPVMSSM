@@ -9,6 +9,8 @@ Downloaded the entire "/RPVSSM_UFO" directory from https://github.com/lawrencele
 
 Installed the lhapdf library (lhapdf get NNPDF23_lo_as_0130_qed)
 
+I used the default paramters generarted by the model ([param_card.dat](Cards/param_card.dat)), each beam was 6500 GeV, mass of left handed smoun= 2.029157e+02 GeV
+
 <code>mg5> import model RPVMSSM_UFO/RPVMSSM_UFO</code> 
 
 <code>mg5> display coupling_order</code>
