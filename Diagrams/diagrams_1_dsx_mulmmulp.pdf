@@ -1,0 +1,337 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 2276
+>>
+stream
+BT
+/TT2 1 Tf
+9 0 0 9 50 770 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+(d s~ > mul- mul+ WEIGHTED=2)Tj
+52.7778 0 TD
+(page 1/1)Tj
+-29.4444 -80 TD
+(Diagrams made by MadGraph5_aMC@NLO)Tj
+ET
+0 G
+0 J 0 j 1 w 10 M []0 d
+1 i 
+75 560 m
+175 597.5 l
+S
+125 578.75 m
+123.537 575.531 l
+127.341 579.628 l
+121.781 580.213 l
+f
+BT
+9 0 0 9 119 581.75 Tm
+(d)Tj
+-5.7778 -2.4167 TD
+(1)Tj
+ET
+[2.484 2.484 ]0 d
+175 597.5 m
+275 560 l
+S
+BT
+9 0 0 9 227 581.75 Tm
+(mul-)Tj
+6.2222 -2.75 TD
+(3)Tj
+ET
+[]0 d
+175 597.5 m
+175 672.5 l
+S
+175 635 m
+177.5 632.5 l
+175 637.5 l
+172.5 632.5 l
+f
+BT
+9 0 0 9 178 633.5 Tm
+(u)Tj
+ET
+175 672.5 m
+75 710 l
+S
+125 691.25 m
+128.219 692.713 l
+122.659 692.128 l
+126.463 688.031 l
+f
+BT
+9 0 0 9 127 694.25 Tm
+(s~)Tj
+-6.6667 1.75 TD
+(2)Tj
+ET
+[2.484 2.484 ]0 d
+275 710 m
+175 672.5 l
+S
+BT
+9 0 0 9 201 703.25 Tm
+(mul+)Tj
+9.1111 1.0833 TD
+(4)Tj
+-18.6667 -19.8333 TD
+[( diagram 1 )-3886.4(QCD=0, QED=2, RPV=0)]TJ
+ET
+[]0 d
+350 560 m
+450 597.5 l
+S
+400 578.75 m
+398.537 575.531 l
+402.341 579.628 l
+396.781 580.213 l
+f
+BT
+9 0 0 9 394 581.75 Tm
+(d)Tj
+-5.7778 -2.4167 TD
+(1)Tj
+ET
+[2.484 2.484 ]0 d
+450 597.5 m
+550 560 l
+S
+BT
+9 0 0 9 502 581.75 Tm
+(mul-)Tj
+6.2222 -2.75 TD
+(3)Tj
+ET
+[]0 d
+450 597.5 m
+450 672.5 l
+S
+450 635 m
+452.5 632.5 l
+450 637.5 l
+447.5 632.5 l
+f
+BT
+9 0 0 9 453 633.5 Tm
+(c)Tj
+ET
+450 672.5 m
+350 710 l
+S
+400 691.25 m
+403.219 692.713 l
+397.659 692.128 l
+401.463 688.031 l
+f
+BT
+9 0 0 9 402 694.25 Tm
+(s~)Tj
+-6.6667 1.75 TD
+(2)Tj
+ET
+[2.484 2.484 ]0 d
+550 710 m
+450 672.5 l
+S
+BT
+9 0 0 9 476 703.25 Tm
+(mul+)Tj
+9.1111 1.0833 TD
+(4)Tj
+-18.6667 -19.8333 TD
+[( diagram 2 )-3886.4(QCD=0, QED=2, RPV=0)]TJ
+ET
+[]0 d
+75 340 m
+175 377.5 l
+S
+125 358.75 m
+123.537 355.531 l
+127.341 359.628 l
+121.781 360.213 l
+f
+BT
+9 0 0 9 119 361.75 Tm
+(d)Tj
+-5.7778 -2.4167 TD
+(1)Tj
+ET
+[2.484 2.484 ]0 d
+175 377.5 m
+275 340 l
+S
+BT
+9 0 0 9 227 361.75 Tm
+(mul-)Tj
+6.2222 -2.75 TD
+(3)Tj
+ET
+[]0 d
+175 377.5 m
+175 452.5 l
+S
+175 415 m
+177.5 412.5 l
+175 417.5 l
+172.5 412.5 l
+f
+BT
+9 0 0 9 178 413.5 Tm
+(t)Tj
+ET
+175 452.5 m
+75 490 l
+S
+125 471.25 m
+128.219 472.713 l
+122.659 472.128 l
+126.463 468.031 l
+f
+BT
+9 0 0 9 127 474.25 Tm
+(s~)Tj
+-6.6667 1.75 TD
+(2)Tj
+ET
+[2.484 2.484 ]0 d
+275 490 m
+175 452.5 l
+S
+BT
+9 0 0 9 201 483.25 Tm
+(mul+)Tj
+9.1111 1.0833 TD
+(4)Tj
+-18.6667 -19.8333 TD
+[( diagram 3 )-3886.4(QCD=0, QED=2, RPV=0)]TJ
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+>>
+/ExtGState <<
+/GS1 5 0 R
+>>
+>>
+endobj
+5 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+7 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 770
+/CapHeight 718
+/Descent -229
+/Flags 32
+/FontBBox [-166 -225 1000 931]
+/FontName /Helvetica
+/ItalicAngle 0
+/StemV 88
+/XHeight 523
+/StemH 88
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 126
+/Widths [278 0 0 0 0 0 0 0 0 0 0 584 278 333 0 278 
+556 556 556 556 556 556 0 0 0 0 0 0 0 584 584 0 
+1015 0 0 722 722 667 0 778 722 278 0 0 556 833 722 778 
+667 778 722 0 611 0 667 944 0 0 0 0 0 0 0 556 
+0 556 556 500 556 556 0 556 556 222 0 0 222 833 0 0 
+556 0 333 500 278 556 0 0 0 500 0 0 0 0 584 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Helvetica
+/FontDescriptor 7 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 6 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/S /D
+>>
+endobj
+9 0 obj
+<<
+/Nums [0 8 0 R ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R]
+/Count 1
+/MediaBox [0 0 612 792]
+>>
+endobj
+10 0 obj
+<<
+/CreationDate (D:20230609141032-04'00')
+/ModDate (D:20230609141032-04'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+11 0 obj
+<<
+/Type /Catalog
+/Pages 6 0 R
+/PageLabels 9 0 R
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000003226 00000 n 
+0000000016 00000 n 
+0000002344 00000 n 
+0000002773 00000 n 
+0000002439 00000 n 
+0000003371 00000 n 
+0000002579 00000 n 
+0000003306 00000 n 
+0000003333 00000 n 
+0000003452 00000 n 
+0000003575 00000 n 
+trailer
+<<
+/Size 12
+/Root 11 0 R
+/Info 10 0 R
+/ID [<b6780f09843918da292e6d5c5437e919><b6780f09843918da292e6d5c5437e919>]
+>>
+startxref
+3643
+%%EOF
