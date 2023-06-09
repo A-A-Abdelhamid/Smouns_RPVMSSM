@@ -1,8 +1,13 @@
 # Smouns_RPVMSSM
 Input and output files for generating p p > mul- mul+ events under the RPVMSSM model
 
+# Update
+
+**Using the same configuration and input cards, I generated right-handed smuons with no issue. It does not produce any unexpected or strange Feynman diagrams. I re-ran it again for the left-handed smuons, and it is still producing vertices where a quark goes directly to a smuon and an anti-smoun**
+
+# Left-handed Smouns
 Feynman diagrams are under  [/Diagrams/](/Diagrams/)
-Cross section makes sense (0.01471 +- 4.024e-05 pb) after I fixed the helicity (For this process the output is two left handed smouns), but there are wierd Feynman diagrams like u u~ > d > mul- mul+ as in [here](/Diagrams/diagrams_1_uux_mulmmulp.pdf) in diagrams 3-5, and in [u c~ > d > mul- mul+](/Diagrams/diagrams_1_ucx_mulmmulp.pdf)
+Cross section makes sense (0.01471 +- 4.024e-05 pb) after I fixed the helicity (For this process the output is two left-handed smouns), but there are wierd Feynman diagrams like u u~ > d > mul- mul+ as in [here](/Diagrams/diagrams_1_uux_mulmmulp.pdf) in diagrams 3-5, and in [u c~ > d > mul- mul+](/Diagrams/diagrams_1_ucx_mulmmulp.pdf)
  
 
 Downloaded the entire "/RPVSSM_UFO" directory from https://github.com/lawrenceleejr/DVMuReint/tree/86e167ff72ac462aac583ac5751d72f889a18a63/RPVMSSM_UFO
