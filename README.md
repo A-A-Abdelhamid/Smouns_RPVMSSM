@@ -2,7 +2,7 @@
 Input and output files for generating p p > mul- mul+ events under the RPVMSSM model
 
 Feynman diagrams are under  [/Diagrams/](/Diagrams/)
-Cross section makes sense now (0.01471 +- 4.024e-05 pb) that I have fixed the helicity (For this process the output is two left handed smouns), but there are wierd Feynman diagrams like u u~ > d > mul- mul+ as in [here](/Diagrams/diagrams_1_uux_mulmmulp.pdf) in diagrams 3-5, and in [u c~ > d > mul- mul+](/Diagrams/diagrams_1_ucx_mulmmulp.pdf)
+Cross section makes sense (0.01471 +- 4.024e-05 pb) after I fixed the helicity (For this process the output is two left handed smouns), but there are wierd Feynman diagrams like u u~ > d > mul- mul+ as in [here](/Diagrams/diagrams_1_uux_mulmmulp.pdf) in diagrams 3-5, and in [u c~ > d > mul- mul+](/Diagrams/diagrams_1_ucx_mulmmulp.pdf)
  
 
 Downloaded the entire "/RPVSSM_UFO" directory from https://github.com/lawrenceleejr/DVMuReint/tree/86e167ff72ac462aac583ac5751d72f889a18a63/RPVMSSM_UFO
